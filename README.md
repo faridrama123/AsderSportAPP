@@ -9,7 +9,7 @@ Feature :
 
 ScreenShoot :
 <p float="left">
-  <img src="/images/Mockup.png" width="80%" />
+  <img src="/images/Mockup2.png" width="80%" />
 </p>
 
 
