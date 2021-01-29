@@ -1,10 +1,10 @@
 # AsderSportApp
 
 Feature : 
-* Crud your team/club
-* Crud your profile
+* Crud your team/club, profile, match
 * request/accept match opponent
-* find a team/club, real time score
+* find a team/club, 
+* see real time score
 * and more
 
 ScreenShoot :
